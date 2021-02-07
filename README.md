@@ -1,0 +1,1 @@
+## Repository of all SQL challenges solved by me
